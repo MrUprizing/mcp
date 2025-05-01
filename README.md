@@ -1,11 +1,18 @@
 # MCP - Modern Collaboration Platform
 
-Una plataforma de colaboración moderna diseñada para equipos de desarrollo.
+Una plataforma moderna para mejorar la colaboración en equipos de desarrollo.
 
-## Características
+## Características principales
 
-- Gestión de proyectos simplificada
-- Integración con herramientas de desarrollo
-- Interfaz intuitiva y moderna
+- Gestión de tareas intuitiva
+- Integración con GitHub y GitLab
+- Dashboards personalizables
+- Notificaciones en tiempo real
 
-Creado con ❤️ para mejorar flujos de trabajo.
+## Instalación
+
+```bash
+npm install @mcp/core
+```
+
+Desarrollado por el equipo de MrUprizing con tecnologías de vanguardia.
